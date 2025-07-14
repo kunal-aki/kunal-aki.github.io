@@ -1,7 +1,5 @@
 ---
 sequence_id: 1
-title: Probabilistic object detection - strengths, weaknesses, opportunities
-authors: Dhaivat Bhatt, Dishank Bansal, Gunshi Gupta, Hanju Lee, Krishna Murthy Jatavallabhula, and Liam Paull
-affil: Mila, Universite de Montreal, and Denso
+title: Robot Decision-Making with Raspberry Pi 4
 pdf: 01.pdf
 ---
