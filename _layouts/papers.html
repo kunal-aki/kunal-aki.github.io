@@ -29,23 +29,29 @@ layout: default
 		        	</div>
 		        </td>
 		        <td>
-		            <div class="people-name text-center">
-		            	<!-- Author list -->
-		            	{% if paper.authors %}
-		            		{{ paper.authors }}
-		            	{% endif %}
-		                <!-- Author affiliations (if provided) -->
-		                {% if paper.affil %}
-		                	<br>
-		                	{{ paper.affil }}
-		                {% endif %}
-		                <!-- Link to PDF (if provided) -->
-		                {% if paper.pdf %}
-		                	<br>
-		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Project Link</a>
-		                {% endif %}
-		            </div>
-		        </td>
+			    <div class="people-name text-center">
+			        <!-- Author list -->
+			        {% if paper.authors %}
+			            {{ paper.authors }}
+			        {% endif %}
+			        <!-- Author affiliations (if provided) -->
+			        {% if paper.affil %}
+			            <br>
+			            {{ paper.affil }}
+			        {% endif %}
+			        <!-- Links -->
+			        {% if paper.link or paper.pdf %}
+				    <br>
+				    {% if paper.link %}
+				        <a href="{{ paper.link }}" target="_blank">View Code</a>
+				    {% endif %}
+				    {% if paper.link and paper.pdf %} | {% endif %}
+				    {% if paper.pdf %}
+				        <a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Download PDF</a>
+				    {% endif %}
+				{% endif %}
+			    </div>
+			</td>
 		    </tr>
 	    {% endfor %}
 	  </table>
