@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kunal Aki's Website
+title: Kunal's Workshop
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my corner of the web — a space where I share my journey as a robotics and biomedical enthusiast. Here you’ll find my latest robotics projects and personal blog on robotics and biomedical engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
