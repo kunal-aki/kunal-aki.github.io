@@ -1,5 +1,5 @@
 ---
-layout: speakers
+layout: default
 title: CODEify
 permalink: /codeify/
 ---
