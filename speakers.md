@@ -1,4 +1,1 @@
----
-title: CODEify
-link: https://code-ify.org/
----
+[Visit CODEify](https://code-ify.org/)
