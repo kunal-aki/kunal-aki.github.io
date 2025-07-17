@@ -1,5 +1,4 @@
 ---
-title: CODEify
-
+# [CODEify](https://code-ify.org/)
 ---
 
