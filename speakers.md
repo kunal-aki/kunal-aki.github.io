@@ -1,5 +1,4 @@
 ---
 title: CODEify
-permalink: /codeify/
-link: https://code-ify.org/
+permalink: https://code-ify.org/
 ---
