@@ -1,7 +1,7 @@
 ---
 title: CODEify
 layout: speakers
-permalink: /codeify
+permalink: /codeify/
 redirect_to: https://code-ify.org/
 ---
 
