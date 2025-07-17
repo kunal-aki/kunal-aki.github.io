@@ -1,5 +1,5 @@
 ---
 title: CODEify
-link: https://code-ify.org/
+redirect_to: https://code-ify.org/
 ---
 
