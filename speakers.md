@@ -1,7 +1,8 @@
 ---
+layout: default
 title: CODEify
-layout: speakers
 permalink: /codeify/
-redirect_to: https://code-ify.org/
 ---
 
+<meta http-equiv="refresh" content="0; url=https://code-ify.org/" />
+<p>If you are not redirected, <a href="https://code-ify.org/">click here</a>.</p>
