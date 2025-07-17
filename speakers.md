@@ -1,4 +1,5 @@
 ---
-title: [CODEify](https://code-ify.org/)
+title: CODEify
+link: https://code-ify.org/
 ---
 
