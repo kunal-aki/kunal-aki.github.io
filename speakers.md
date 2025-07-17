@@ -1,5 +1,5 @@
 ---
-title: [CODEify](https://code-ify.org/)
+title: CODEify
 
 ---
 
