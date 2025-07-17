@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: LinkedIn
+permalink: /linkedin/
 ---
-
-Project coming soon: Robot Decision-Making with Raspberry Pi 4
