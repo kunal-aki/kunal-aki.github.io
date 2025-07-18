@@ -23,8 +23,12 @@ Softbotics is more than just a new branch of robotics—it’s a rising innovati
 
 Sources:
 [Air-powered soft robots achieve lifelike motion without electronics or AI](https://interestingengineering.com/innovation/air-powered-soft-robots-achieve-lifelike-motion)
+
 [An Overview of Soft Robotics](https://www.annualreviews.org/content/journals/10.1146/annurev-control-062322-100607)
+
 [What Is Soft Robotics and How Does It Work?](https://biologyinsights.com/what-is-soft-robotics-and-how-does-it-work/)
+
 [Soft Robotics With Kristen Dorsey - Soft Robotics Podcast](https://soundcloud.com/ieeeras-softrobotics/kris-episode?si=8a4740e69f594e3c907056bb5fe35130&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 [ChatGPT](https://chat.openai.com/)
 
