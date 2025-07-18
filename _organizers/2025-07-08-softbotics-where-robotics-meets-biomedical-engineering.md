@@ -21,7 +21,7 @@ In all these applications, the use of artificial intelligence and machine learni
 Softbotics is more than just a new branch of robotics—it’s a rising innovation in machine interaction. As research continues, softbotics promises to play an even greater role in healthcare, environmental sustainability, manufacturing, and beyond.
 
 
-###Sources:
+### Sources:
 
 [Air-powered soft robots achieve lifelike motion without electronics or AI](https://interestingengineering.com/innovation/air-powered-soft-robots-achieve-lifelike-motion)
 
