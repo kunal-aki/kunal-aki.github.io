@@ -7,4 +7,5 @@ In school, I am part of my school’s HOSA division, and have participated in bi
 Outside of school, I take coding classes from a program called CodeWizards, where I have been learning coding for the past 5 years. I’ve learned Scratch, JavaScript, Python, HTML/CSS, and I am currently working on Web App Development. I am also part of a non-profit organization called CODE-ify, where I teach Python and to new coders. Our goal is to make coding accessible to everyone and hopefully inspire others to pursue coding and have just as much of a passion as we do for it.
 
 **[Website](kunal-aki.github.io)**
+
 **[LinkedIn](https://www.linkedin.com/in/kunal-aki-544b37374/)**
