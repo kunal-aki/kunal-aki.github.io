@@ -1,4 +1,3 @@
-
 ---
 sequence_id: 2
 title: Robotic Arm Inverse Kinematics with Raspberry Pi 4
