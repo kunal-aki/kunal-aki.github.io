@@ -22,7 +22,7 @@ Mid-air transformation robots are still a relatively new and emerging innovation
 
 [ATMO: an aerially transforming morphobot for dynamic ground-aerial transition - Communications Engineering](https://www.nature.com/articles/s44172-025-00413-6))
 
-[Mid-Air Transformation Helps Flying, Rolling Robot to Transition Smoothly | Caltech](https://www.caltech.edu/about/news/mid-air-transformation-helps-flying-rolling-robot-to-transition-smoothly)
+[Mid-Air Transformation Helps Flying, Rolling Robot to Transition Smoothly - Caltech](https://www.caltech.edu/about/news/mid-air-transformation-helps-flying-rolling-robot-to-transition-smoothly)
 
 [Flying robot morphs mid-air to land and roll on wheels](https://newatlas.com/robotics/atmo-flying-wheeled-morphing-robot/)
 
