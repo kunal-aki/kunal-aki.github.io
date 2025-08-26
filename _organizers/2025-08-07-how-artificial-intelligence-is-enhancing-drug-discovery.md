@@ -27,7 +27,7 @@ Also, with a majority of the simulating and development of molecules based throu
 
 [How AI will accelerate biomedical research and discovery - Microsoft Research](https://www.microsoft.com/en-us/research/podcast/how-ai-will-accelerate-biomedical-research-and-discovery/)
 
-[Drug Discovery & Development | Pharma and Biotech Insights](https://www.drugdiscoverytrends.com/)
+[Drug Discovery & Development - Pharma and Biotech Insights](https://www.drugdiscoverytrends.com/)
 
 [Varda Space to make drugs that are ‘impossible’ to produce on Earth](https://interestingengineering.com/space/varda-space-to-make-drugs)
 
