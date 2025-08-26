@@ -19,6 +19,24 @@ Although AI is proving to be very useful in the drug discovery field, some major
 
 Also, with a majority of the simulating and development of molecules based through AI, there is always the possibility of hallucinations, which would further reduce the possibilities of new drugs. Despite this, AI is highly beneficial in helping researchers find better medicines, faster, and more affordably. With some more time put towards the AI side of development, the future of drug discovery is looking more and more prospective.
 
+### Sources:
 
+[Exploring the structural changes driving protein function with BioEmu-1 - Microsoft Research](https://www.microsoft.com/en-us/research/blog/exploring-the-structural-changes-driving-protein-function-with-bioemu-1/?msockid=1c6598df540b69061b9a8c8155546899)
+
+[Varda Space Industries says "low Earth orbit is now open for business" - Marketplace](https://www.marketplace.org/story/2023/11/29/low-earth-orbit-open-for-business-varda-space-industries)
+
+[How AI will accelerate biomedical research and discovery - Microsoft Research](https://www.microsoft.com/en-us/research/podcast/how-ai-will-accelerate-biomedical-research-and-discovery/)
+
+[Drug Discovery & Development | Pharma and Biotech Insights](https://www.drugdiscoverytrends.com/)
+
+[Varda Space to make drugs that are ‘impossible’ to produce on Earth](https://interestingengineering.com/space/varda-space-to-make-drugs)
+
+[AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
+
+[Drug Discovery - Microsoft Research](https://www.microsoft.com/en-us/research/project/drug-discovery/?msockid=1c6598df540b69061b9a8c8155546899)
+
+[This Lab Robot Mixes Chemicals](https://feedly.com/i/entry/Uj+CdaagUWK3MlmzxLAxgNcqNGJXiYXjmrsBNefGR2c=_19299bf1925:2a8f35d:d7121dc8)
+
+[ChatGPT](https://chat.openai.com/)
 
 
