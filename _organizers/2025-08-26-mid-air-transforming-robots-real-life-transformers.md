@@ -16,3 +16,16 @@ The use-cases for such robots are just as versatile as the robot itself. The rob
 Due to such efficiency and versatility, these robots have sparked the interest of a large group of users, ranging from space organizations such as NASA to defense organizations and emergency response teams, all of which see the potential in this shape shifting innovation. Meanwhile on the development side, universities including MIT and Caltech are actively developing new transformation mechanisms, such as origami-inspired folding designs, to lead to even greater output and versatility. 
 
 Mid-air transformation robots are still a relatively new and emerging innovation, but their potential is only limitless from here. They can save lives, conduct military operations, and even change how we receive packages. In such a dynamic world where robotic flexibility is often the difference between a success and failure, these shape-shifting machines may soon be a prominent part of the robotics scene.
+
+
+### Sources:
+
+[ATMO: an aerially transforming morphobot for dynamic ground-aerial transition | Communications Engineering]([https://interestingengineering.com/innovation/air-powered-soft-robots-achieve-lifelike-motion](https://www.nature.com/articles/s44172-025-00413-6))
+
+[Mid-Air Transformation Helps Flying, Rolling Robot to Transition Smoothly | Caltech](https://www.caltech.edu/about/news/mid-air-transformation-helps-flying-rolling-robot-to-transition-smoothly)
+
+[Flying robot morphs mid-air to land and roll on wheels](https://newatlas.com/robotics/atmo-flying-wheeled-morphing-robot/)
+
+[A Robot with the ‘Brains’ to Morph Mid-Air - Tech Briefs](https://www.techbriefs.com/component/content/article/53385-a-robot-with-the-brains-to-morph-mid-air)
+
+[ChatGPT](https://chat.openai.com/)
