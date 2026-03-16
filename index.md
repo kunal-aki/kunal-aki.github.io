@@ -9,10 +9,9 @@ layout: home
 
 # [](assets/img/banner.jpg)
 
-Hello! My name is Kunal Aki, and I am a rising sophomore at Wayzata High School. I have a passion for robotics and biomedical engineering, and the applications where they overlap, such as soft robotics. I’ve recently been super fascinated by both these fields and I am ready to learn more about them as they are absolutely mind blowing to me.
-	
-In school, I am part of my school's HOSA division, and have participated in biomedical events such as Medical Innovation. During my freshman year, I took part in the SkillsUSA club to gain some more robotics experience, so that in 10th grade I can apply to my school's actual robotics team to further my experience and help me work towards becoming a robotics engineer.
-	
-Outside of school, I take coding classes from a program called CodeWizards, where I have been learning coding for the past 5 years. I’ve learned Scratch, JavaScript, Python, HTML/CSS, and I am currently working on Web App Development. I am also part of a non-profit organization called CODE-ify, where I teach Python and to new coders. Our goal is to make coding accessible to everyone and hopefully inspire others to pursue coding and have just as much of a passion as we do for it.
-	
-Outside of the education department, I enjoy riding my bike when the weather permits, listening to music, and working out. I also play the piano, which I’ve been doing for the last 10 years, and always enjoy learning new songs, whether they are pop songs or classical pieces.
+Hello! My name is Kunal Aki, and I am a sophomore at Wayzata High School. I have a passion for robotics and biomedical engineering, and the applications where they overlap, such as soft robotics. I’ve recently been super fascinated by both these fields and I am ready to learn more about them as they are absolutely mind blowing to me.
+
+In school, I am part of my school’s HOSA chapter, and have participated in biomedical events, placing 4th in Biomedical Equipment Techinician and 4th in Medical Innovation during the 2026 State Leadership Conference. I am also part of SkillsUSA, where I've competed in Robotics Urban Search and Rescue, placing 3rd in the state in 2025.
+
+Outside of school, I take coding classes from a program called CodeWizards, where I have been learning coding for the past 5 years. I’ve learned Scratch, JavaScript, Python, HTML/CSS, and Web App Development with APIs and Databases. I am also part of a non-profit organization called CODE-ify, where I teach Python to new coders. Our goal is to make coding accessible to everyone and hopefully inspire others to pursue coding and have just as much of a passion as we do for it.
+
