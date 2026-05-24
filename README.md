@@ -1,4 +1,4 @@
-# The Biorobotics Blog
+# The Biomechanics Workshop
 
 Hello! My name is Kunal Aki, and I am a sophomore at Wayzata High School. I have a passion for robotics and biomedical engineering, and the applications where they overlap, such as soft robotics. I’ve recently been super fascinated by both these fields and I am ready to learn more about them as they are absolutely mind blowing to me.
 
