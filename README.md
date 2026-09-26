@@ -1,6 +1,6 @@
 # The Biomechanics Workshop
 
-Hello! My name is Kunal Aki, and I am a sophomore at Wayzata High School. I have a passion for robotics and biomedical engineering, and the applications where they overlap, such as soft robotics. I’ve recently been super fascinated by both these fields and I am ready to learn more about them as they are absolutely mind blowing to me.
+Hello! My name is Kunal Aki, and I am a junior at Wayzata High School. I have a passion for robotics and biomedical engineering, and the applications where they overlap, such as soft robotics. I’ve recently been super fascinated by both these fields and I am ready to learn more about them as they are absolutely mind blowing to me.
 
 In school, I am part of my school’s HOSA chapter, where I competed in the State Leadership Conference, placing 4th in both Biomedical Equipment Techinician and Medical Innovation, and I am a 1X ILC qualifier for Medical Innovation. I am also part of SkillsUSA, where I've competed in the State Leadership and Skills Conference, placing 2nd in both Robotics Urban Search and Rescue and Quiz Bowl.
 
