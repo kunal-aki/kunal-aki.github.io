@@ -6,8 +6,23 @@
 	margin-top: $spacing-unit * 2;
 	margin-bottom: $spacing-unit / 2;
 	cursor: pointer;
+	list-style: none;
+
+	&::-webkit-details-marker {
+		display: none;
+	}
+
+	&::after {
+		content: " ▿";
+		display: inline-block;
+		transition: transform 150ms ease;
+	}
 
 	@media screen and (min-width: $on-large) {
 		@include relative-font-size(2);
 	}
+}
+
+.project-category[open] > summary::after {
+	transform: rotate(180deg);
 }
