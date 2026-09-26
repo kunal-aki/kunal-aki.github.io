@@ -1,7 +1,8 @@
 ---
 sequence_id: 7
 category: CAD
-title: Onshape CAD Project
+title: Onshape Robot Arm + Gripper
 link: https://cad.onshape.com/documents/3f7e80546f0b3b50490fb1bd/w/821324a62be620a3608ff983/e/e49af6468dafc5dfc17a6338
 link_text: Open CAD Project
+img: arm.jpeg
 ---
