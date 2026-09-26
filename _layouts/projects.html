@@ -10,6 +10,17 @@ layout: default
 
   <div class = "post-content">
 		<details class="project-category">
+			<summary>Engineering Projects</summary>
+			<table>
+				{% for project in site.projects %}
+					{% if project.category == "Engineering" %}
+						{% include project-row.html project=project %}
+					{% endif %}
+				{% endfor %}
+			</table>
+		</details>
+
+		<details class="project-category">
 			<summary>CAD Projects</summary>
 			<table>
 				{% for project in site.projects %}
@@ -21,12 +32,12 @@ layout: default
 		</details>
 
 		<details class="project-category">
-			<summary>Other Projects</summary>
+			<summary>Software Projects</summary>
 			<table>
 				{% for project in site.projects %}
-					{% unless project.category == "CAD" %}
+					{% if project.category != "CAD" and project.category != "Engineering" %}
 						{% include project-row.html project=project %}
-					{% endunless %}
+					{% endif %}
 				{% endfor %}
 			</table>
 		</details>
