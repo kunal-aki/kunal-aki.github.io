@@ -9,53 +9,23 @@ layout: default
   </header>
 
   <div class = "post-content">
-	  <h2>CAD Projects</h2>
-	  <table>
-	  	{% for paper in site.papers %}
-		    <tr>
-		        <td>
-		            <div class="people-name text-center">
-		                <p align="center">
-		                	{% if paper.img %}
-		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
-		        </td>
-		        <td align="center">
-		        	<div class="people-name text-center">
-			        	<b>{{ paper.title }}</b>
-		        	</div>
-		        </td>
-		        <td>
-			    <div class="people-name text-center">
-			        <!-- Author list -->
-			        {% if paper.authors %}
-			            {{ paper.authors }}
-			        {% endif %}
-			        <!-- Author affiliations (if provided) -->
-			        {% if paper.affil %}
-			            <br>
-			            {{ paper.affil }}
-			        {% endif %}
-			        <!-- Links -->
-			        {% if paper.link or paper.pdf %}
-				    <br>
-				    {% if paper.link %}
-				        <a href="{{ paper.link }}" target="_blank">{{ paper.link_text | default: "View Code" }}</a>
-				    {% endif %}
-				    {% if paper.link and paper.pdf %} | {% endif %}
-				    {% if paper.pdf %}
-				        <a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">View Project</a>
-				    {% endif %}
+		<h2>CAD Projects</h2>
+		<table>
+			{% for paper in site.papers %}
+				{% if paper.category == "CAD" %}
+					{% include paper-row.html paper=paper %}
 				{% endif %}
-			    </div>
-			</td>
-		    </tr>
-	    {% endfor %}
-	  </table>
+			{% endfor %}
+		</table>
+
+		<h2>Other Projects</h2>
+		<table>
+			{% for paper in site.papers %}
+				{% unless paper.category == "CAD" %}
+					{% include paper-row.html paper=paper %}
+				{% endunless %}
+			{% endfor %}
+		</table>
   </div>
 
 </article>
