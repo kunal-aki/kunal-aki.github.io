@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class = "post-content">
+		<details class="project-category">
+			<summary>CAD Projects</summary>
+			<table>
+				{% for project in site.projects %}
+					{% if project.category == "CAD" %}
+						{% include project-row.html project=project %}
+					{% endif %}
+				{% endfor %}
+			</table>
+		</details>
+
+		<details class="project-category">
+			<summary>Other Projects</summary>
+			<table>
+				{% for project in site.projects %}
+					{% unless project.category == "CAD" %}
+						{% include project-row.html project=project %}
+					{% endunless %}
+				{% endfor %}
+			</table>
+		</details>
+  </div>
+
+</article>

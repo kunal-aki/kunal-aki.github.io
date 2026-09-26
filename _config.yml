@@ -35,7 +35,7 @@ plugins:
 header_pages:
 - index.md
 - organizers.md
-- papers.md
+- projects.md
 - speakers.md
 - callforpapers.md
 
@@ -50,7 +50,7 @@ header_pages:
 # Displays a "last updated" date in the footer if set to "true"
 last_updated: true
 
-# Define collections (speakers, organizers, papers)
+# Define collections (speakers, organizers, projects)
 # To turn off any of these collections, just set "output" to "false"
 collections:
   speakers:
@@ -60,7 +60,7 @@ collections:
   schedule:
     sort_by: sequence_id
     output: true
-  papers:
+  projects:
     sort_by: sequence_id
     output: true
 

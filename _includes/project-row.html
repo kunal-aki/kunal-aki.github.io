@@ -1,0 +1,40 @@
+{% assign project = include.project %}
+<tr>
+    <td>
+        <div class="people-name text-center">
+            <p align="center">
+                {% if project.img %}
+                    <img class="paper-pic" src="{{ project.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                {% else %}
+                    <img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                {% endif %}
+            </p>
+        </div>
+    </td>
+    <td align="center">
+        <div class="people-name text-center">
+            <b>{{ project.title }}</b>
+        </div>
+    </td>
+    <td>
+        <div class="people-name text-center">
+            {% if project.authors %}
+                {{ project.authors }}
+            {% endif %}
+            {% if project.affil %}
+                <br>
+                {{ project.affil }}
+            {% endif %}
+            {% if project.link or project.pdf %}
+                <br>
+                {% if project.link %}
+                    <a href="{{ project.link }}" target="_blank">{{ project.link_text | default: "View Code" }}</a>
+                {% endif %}
+                {% if project.link and project.pdf %} | {% endif %}
+                {% if project.pdf %}
+                    <a href="{{ project.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">View Project</a>
+                {% endif %}
+            {% endif %}
+        </div>
+    </td>
+</tr>

@@ -1,14 +1,14 @@
 ---
-# Determines which paper appears first (lowest number (0) appears first)
+# Determines which project appears first (lowest number (0) appears first)
 sequence_id: 3
 
-# Paper title
+# Project title
 title: Phantom Link - Bioengineered Nerve for Phantom Pain Treatment
 
 # Author affiliations
 # affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
 
-# Link to the paper's pdf (place in the `assets/pdf/papers` directory)
+# Link to the project's pdf (place in the `assets/pdf/papers` directory)
 pdf: 00.pdf
 
 img: 01.png
