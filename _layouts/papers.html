@@ -9,6 +9,7 @@ layout: default
   </header>
 
   <div class = "post-content">
+	  <h2>CAD Projects</h2>
 	  <table>
 	  	{% for paper in site.papers %}
 		    <tr>
@@ -43,7 +44,7 @@ layout: default
 			        {% if paper.link or paper.pdf %}
 				    <br>
 				    {% if paper.link %}
-				        <a href="{{ paper.link }}" target="_blank">View Code</a>
+				        <a href="{{ paper.link }}" target="_blank">{{ paper.link_text | default: "View Code" }}</a>
 				    {% endif %}
 				    {% if paper.link and paper.pdf %} | {% endif %}
 				    {% if paper.pdf %}
