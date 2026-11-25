@@ -11,5 +11,5 @@ title: Phantom Link - Bioengineered Nerve for Phantom Pain Treatment
 # Link to the project's pdf (place in the `assets/pdf/papers` directory)
 pdf: 00.pdf
 
-img: 01.png
+img: phantom-link-title-slide.png
 ---
